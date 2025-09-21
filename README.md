@@ -9,7 +9,7 @@ setup instructions.
 ## 📁 Projects
 
 ### 1️⃣ [Guess The Number Game](Guess-The-Number-Game)
-*A simple console game where the computer generates a random number
+*A simple console game where the guesser generates a random number
 and the player tries to guess it.*
 
 (⬆️ More projects will be added soon...)
