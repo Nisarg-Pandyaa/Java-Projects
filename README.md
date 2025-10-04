@@ -12,4 +12,7 @@ setup instructions.
 *A simple console game where the guesser generates a random number
 and the player tries to guess it.*
 
+### 2️⃣ [Tic Tac Toe Game](TicTacToeGame)
+*OG Tic Tac Toe Game ( 'X' and 'O' ) that can play by 2 players.*
+
 (⬆️ More projects will be added soon...)
