@@ -25,10 +25,3 @@ between a **Guesser**, an **Umpire**, and **three Players**.
 
 ---
 
-## 🛠️ How to Compile and Run
-
-### Using Command Line
-1. Navigate to the project folder:
-   ```bash
-   cd Java-Projects/Guess-The-Number-Game/src
-
