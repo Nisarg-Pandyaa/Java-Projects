@@ -8,7 +8,7 @@ setup instructions.
 
 ## 📁 Projects
 
-### 1️⃣ [Guess The Number Game](Guess-The-Number-Game)
+### 1️⃣ [Guess The Number Game](GuessTheNumberGame)
 *A simple console game where the guesser generates a random number
 and the player tries to guess it.*
 
